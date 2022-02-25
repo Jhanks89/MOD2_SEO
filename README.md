@@ -10,12 +10,15 @@
 <li>backlinks
 <li>SEO checklist
 <br>
+  <br>
   
   Websites that will help with finding key words for SEO
-  
+  <br>
   <a href="https://answerthepublic.com/">Answer The Public</a>
 <br>
   <a href="https://explodingtopics.com/">Exploding Topics</a>
+  <br>
+  <br>
   
   This video discussing SEO was a big help in my understanding of the topic <a href="https://www.youtube.com/watch?v=rpwD50v0Ubo">SEO for Beginners</a>
   
