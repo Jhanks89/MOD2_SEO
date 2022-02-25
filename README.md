@@ -11,7 +11,7 @@
 <br>
   <br>
   
-  Websites that will help with finding key words for SEO:
+<h2>Websites that will help with finding key words for SEO:</h2>
   <br>
   <a href="https://answerthepublic.com/">Answer The Public</a>
 <br>
@@ -19,6 +19,6 @@
   <br>
   <br>
   
-  This video discussing SEO was a big help in my understanding of the topic <a href="https://www.youtube.com/watch?v=rpwD50v0Ubo">SEO for Beginners</a>
+  <h2>This video discussing SEO was a big help in my understanding of the topic</h2> <a href="https://www.youtube.com/watch?v=rpwD50v0Ubo">SEO for Beginners</a>
   
   
