@@ -12,7 +12,6 @@
   <br>
   
 <h2>Websites that will help with finding key words for SEO:</h2>
-  <br>
   <a href="https://answerthepublic.com/">Answer The Public</a>
 <br>
   <a href="https://explodingtopics.com/">Exploding Topics</a>
